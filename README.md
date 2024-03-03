@@ -15,7 +15,8 @@ In the future, the "ifakara" module may be renamed to "MBUPack" to reflect the o
 
 ## Installation
 
-No information yet.
+# install.packages("devtools")
+devtools::install_github("Medjumanne/MBUPack")
 
 ## Usage
 
