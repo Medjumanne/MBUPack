@@ -1,0 +1,14 @@
+Package: ifakara
+Title: Mosquito Data Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mohamed", "Jumanne", , "medjumanne@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The 'ifakara' package provides a comprehensive toolkit for analyzing mosquito data. It includes functions for mosquito population age structure analysis, mosquito ovarian dissection data analysis, mosquito species distribution analysis, and mosquito diversity indices analysis. These tools can help researchers better understand mosquito populations and their impacts on disease transmission.
+License: GPL-3 
+Encoding: UTF-8
+Imports: 
+    graphics,
+    vegan
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
